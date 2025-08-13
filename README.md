@@ -1,21 +1,27 @@
-# TEP
-Código simples e intuito sobre Bot para a plataforma Discord.
+# **Bot_Discord**
+Um código simples e intuitivo para criação de bots na plataforma **Discord**.
 
-# Objetivo
-A ferrementa deve ser usada para criação de bots dentro servidor desejado.
+## **🎯 Objetivo**
+- Fornecer um exemplo básico para iniciantes.
+- Mostrar como criar um bot no Discord usando **Python** e a biblioteca **discord.py**.
 
-# TEP
-TEP, significa Tecnologia e Programação, homenagem ao servidor no qual está sendo trabalhado o bot. 
+---
 
-# Como instalar e rodar o projeto
-Para utilização do projeto, necessário ter um leitor de código 
-# Como usar o projeto 
+## **📋 Pré-requisitos**
+- 📌 Conta no [Discord](https://discord.com/).
+- 🔑 Permissão de administrador em um servidor do Discord.
+- 🐍 [Python](https://www.python.org/downloads/) instalado.
+- 🖥️ Editor de código, como [Visual Studio Code](https://code.visualstudio.com/).
+- 📦 Biblioteca **discord.py** instalada: pip install discord.py
 
-# O que aprendi
+ ## **📚 O que aprendi**
+- 🐍 Python: comandos básicos, uso de bibliotecas e lógica de programação.
+- 📦 Bibliotecas: importância e funcionamento no Python.
+- 🖥️ Editor de código (VS Code): configurações, login, integração com Git e organização de projetos.
+- 🌐 Git e GitHub: versionamento de código e boas práticas para organização.
 
-Props: passagem de dados e funções entre componentes.
-
-Renderização condicional: lógica para exibir diferentes partes da interface com base no estado da aplicação.
+  ## 🤝 **Contribuição**
+- Sinta-se à vontade para sugerir melhorias.
 
 # Liguagem de programação usada
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
