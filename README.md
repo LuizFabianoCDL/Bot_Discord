@@ -2,13 +2,13 @@
 Código simples e intuito sobre Bot para a plataforma Discord.
 
 # Objetivo
-A ferrementa deve ser usada pra auxílio de usuários novos, por exemplo, comandos e acesso as regras.
+A ferrementa deve ser usada para criação de bots dentro servidor desejado.
 
 # TEP
 TEP, significa Tecnologia e Programação, homenagem ao servidor no qual está sendo trabalhado o bot. 
 
 # Como instalar e rodar o projeto
-
+Para utilização do projeto, necessário ter um leitor de código 
 # Como usar o projeto 
 
 # O que aprendi
