@@ -26,7 +26,7 @@ Um código simples e intuitivo para criação de bots na plataforma **Discord**.
 # Liguagem de programação usada
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-# _Licença_
+# Licença
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg?style=flat-square)](https://www.apache.org/licenses/LICENSE-2.0)
 
 # Contatos                
