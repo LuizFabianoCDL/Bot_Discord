@@ -39,3 +39,6 @@ Um código simples e intuitivo para criação de bots na plataforma **Discord**.
 <a href="https://www.reddit.com/user/LuizFabianoCDL" title="Reddit">
   <img src="https://img.shields.io/badge/-Reddit-FF4500?style=flat-square&logo=reddit&logoColor=white" alt="Reddit"/>
 </a>
+
+# Créditos:
+- Link: https://youtu.be/Gt1BmJPme_g?si=16JwjA978D6ZpoEG
